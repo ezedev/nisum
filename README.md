@@ -25,7 +25,7 @@ git clone https://github.com/ezedev/nisum.git
 
     La aplicación se ejecutará en http://localhost:8080.
 
-4. Abre tu navegador web y visita la URL http://localhost:8080/swagger-ui.html para acceder a la documentación de la API a través de Swagger.
+4. Abre tu navegador web y visita la URL http://localhost:8080/swagger-ui/#/ para acceder a la documentación de la API a través de Swagger.
 
 ## Características
 
