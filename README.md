@@ -17,6 +17,7 @@ git clone https://github.com/tuusuario/nisum-test.git
 2. Navega a la carpeta del proyecto:
 
     cd nisum-test
+3. Ejecuta un mvn clean compile
 
 3. Ejecuta la aplicación Spring Boot:
 
