@@ -35,7 +35,7 @@ git clone https://github.com/ezedev/nisum.git
 
 - **H2 Database:** Se emplea H2 Database en memoria para almacenamiento de datos durante el desarrollo.
 
-- **JWT Token:** Implementación de autenticación y autorización mediante tokens JWT para proteger endpoints.
+- **JWT Token:** Implementación de tokens JWT con el objetivo final de proteger endpoints en un proyecto final.
 
 - **Excepciones Personalizadas:** El proyecto maneja distintos casos de excepciones mediante excepciones personalizadas para mejor legibilidad y manejo de errores.
 
