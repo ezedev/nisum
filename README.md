@@ -11,7 +11,7 @@ Este proyecto ejemplifica el uso de la arquitectura hexagonal con Spring Boot, M
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/tuusuario/nisum-test.git
+git clone https://github.com/ezedev/nisum.git
 
 
 2. Navega a la carpeta del proyecto:
